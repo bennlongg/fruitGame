@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 84e5f23795bfb4427adad778a85f2feb
+timeCreated: 1521253062
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unicorn Scribbles
+  fontNames:
+  - Unicorn Scribbles
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
